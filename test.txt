@@ -1,1 +1,2 @@
 Initial Command line
+Second line for docker 
